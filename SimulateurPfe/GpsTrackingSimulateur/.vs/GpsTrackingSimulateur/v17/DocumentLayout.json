@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\dto\\fieldsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\dto\\fieldsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\interfaces\\idatabaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\interfaces\\idatabaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\application\\services\\capteursimulateurgpsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\application\\services\\capteursimulateurgpsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\entities\\capteurgps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\entities\\capteurgps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\application\\simulationloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\application\\simulationloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\dto\\trackablesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\dto\\trackablesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\application\\services\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\application\\services\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\dto\\backupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\dto\\backupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\dto\\backupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\dto\\backupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\infrastructure\\mqtt\\mqttpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\infrastructure\\mqtt\\mqttpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\interfaces\\igpssimulateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\interfaces\\igpssimulateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\gpstrackingsimulateur\\gpstrackingsimulateur\\domain\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347ED3E-C8F3-4385-93C2-27F1ED13D53A}|GpsTrackingSimulateur\\GpsTrackingSimulateur.csproj|solutionrelative:gpstrackingsimulateur\\domain\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CapteurGps.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\Entities\\CapteurGps.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\Entities\\CapteurGps.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\Entities\\CapteurGps.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\Entities\\CapteurGps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:14:02.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Application\\Services\\DataBaseConfig.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Application\\Services\\DataBaseConfig.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Application\\Services\\DataBaseConfig.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Application\\Services\\DataBaseConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:11:07.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrackablesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\TrackablesDTO.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\DTO\\TrackablesDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\TrackablesDTO.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\DTO\\TrackablesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\UsersDTO.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\DTO\\UsersDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\UsersDTO.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\DTO\\UsersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:09:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackupResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\BackupResponse.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\DTO\\BackupResponse.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\BackupResponse.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\DTO\\BackupResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:14:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FieldsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\FieldsDTO.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\DTO\\FieldsDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\FieldsDTO.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\DTO\\FieldsDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:30.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CapteurSimulateurGpsService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Application\\Services\\CapteurSimulateurGpsService.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Application\\Services\\CapteurSimulateurGpsService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Application\\Services\\CapteurSimulateurGpsService.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Application\\Services\\CapteurSimulateurGpsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:19:50.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Application\\SimulationLoader.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Application\\SimulationLoader.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Application\\SimulationLoader.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Application\\SimulationLoader.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:38:01.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackupData.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\BackupData.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\DTO\\BackupData.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\BackupData.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\DTO\\BackupData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:55.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\DTO\\LocationDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\DTO\\LocationDTO.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\DTO\\LocationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:29:38.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Program.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Program.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Program.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:57:53.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MqttPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:50:29.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGpsSimulateur.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\Interfaces\\IGpsSimulateur.cs",
+              "RelativeDocumentMoniker": "GpsTrackingSimulateur\\Domain\\Interfaces\\IGpsSimulateur.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\GpsTrackingSimulateur\\GpsTrackingSimulateur\\Domain\\Interfaces\\IGpsSimulateur.cs",
+              "RelativeToolTip": "GpsTrackingSimulateur\\Domain\\Interfaces\\IGpsSimulateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:53:13.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

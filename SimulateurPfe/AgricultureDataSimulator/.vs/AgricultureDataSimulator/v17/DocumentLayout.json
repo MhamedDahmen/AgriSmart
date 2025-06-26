@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurdebiteau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurdebiteau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurdebiteauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurdebiteauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\infrastructure\\mqtt\\mqttpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\infrastructure\\mqtt\\mqttpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\simulationloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\simulationloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurtemperaturesolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurtemperaturesolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurtemperaturesol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurtemperaturesol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\interfaces\\icapteursimulateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\interfaces\\icapteursimulateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\dto\\backupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\dto\\backupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\dto\\fieldsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\dto\\fieldsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\dto\\backupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\dto\\backupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\databaseconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\databaseconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\interfaces\\idatabaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\interfaces\\idatabaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\dto\\sensorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\dto\\sensorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurtemperatureairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurtemperatureairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurpheauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurpheauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurconductiviteeauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurconductiviteeauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurcondutiviteeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurcondutiviteeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurhumiditeairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurhumiditeairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurpheau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurpheau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurtemperatureair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurtemperatureair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurhumiditesol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurhumiditesol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurhumiditesolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurhumiditesolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurhumiditeair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurhumiditeair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\application\\services\\simulationcapteurlumiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\application\\services\\simulationcapteurlumiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|c:\\users\\mhame\\onedrive\\desktop\\simulateurpfe\\agriculturedatasimulator\\agriculturedatasimulator\\domain\\entities\\capteurlumiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6335086F-1B91-4EDA-9B7E-E7BC31C013B7}|AgricultureDataSimulator\\AgricultureDataSimulator.csproj|solutionrelative:agriculturedatasimulator\\domain\\entities\\capteurlumiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\SimulationLoader.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\SimulationLoader.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\SimulationLoader.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\SimulationLoader.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:01:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Program.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:47:28.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationCapteurDebitEauService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurDebitEauService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurDebitEauService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurDebitEauService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurDebitEauService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:01:32.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapteurDebitEau.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurDebitEau.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurDebitEau.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurDebitEau.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurDebitEau.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:37:26.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\Sensor.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\Sensor.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\Sensor.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:04:09.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICapteurSimulateur.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Interfaces\\ICapteurSimulateur.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Interfaces\\ICapteurSimulateur.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Interfaces\\ICapteurSimulateur.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Interfaces\\ICapteurSimulateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:05:42.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CapteurTemperatureSol.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureSol.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureSol.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureSol.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureSol.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:37:52.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MqttPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Infrastructure\\Mqtt\\MqttPublisher.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:17:52.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimulationCapteurTemperatureSolService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureSolService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureSolService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureSolService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureSolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:41:40.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackUpData.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\BackUpData.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\DTO\\BackUpData.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\BackUpData.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\DTO\\BackUpData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:56:26.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\UsersDTO.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\DTO\\UsersDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\UsersDTO.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\DTO\\UsersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:56:35.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FieldsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\FieldsDTO.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\DTO\\FieldsDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\FieldsDTO.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\DTO\\FieldsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:56:44.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BackupResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\BackupResponse.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\DTO\\BackupResponse.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\BackupResponse.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\DTO\\BackupResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:59:51.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\DatabaseConfigService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\DatabaseConfigService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\DatabaseConfigService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\DatabaseConfigService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:48:25.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Interfaces\\IDatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:47:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SensorsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\SensorsDTO.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\DTO\\SensorsDTO.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\DTO\\SensorsDTO.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\DTO\\SensorsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:56:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimulationCapteurTemperatureAirService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureAirService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureAirService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureAirService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurTemperatureAirService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:38:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CapteurCondutiviteEau.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurCondutiviteEau.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurCondutiviteEau.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurCondutiviteEau.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurCondutiviteEau.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:38:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimulationCapteurHumiditeAirService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeAirService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeAirService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeAirService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeAirService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:41:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimulationCapteurPhEauService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurPhEauService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurPhEauService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurPhEauService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurPhEauService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:46:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimulationCapteurConductiviteEauService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurConductiviteEauService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurConductiviteEauService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurConductiviteEauService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurConductiviteEauService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:12:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CapteurTemperatureAir.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureAir.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureAir.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureAir.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurTemperatureAir.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:33:58.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CapteurHumiditeSol.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeSol.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeSol.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeSol.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeSol.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:36:38.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CapteurPhEau.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurPhEau.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurPhEau.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurPhEau.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurPhEau.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:36:58.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SimulationCapteurHumiditeSolService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeSolService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeSolService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeSolService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurHumiditeSolService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:12:02.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SimulationCapteurLumiereService.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurLumiereService.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurLumiereService.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Application\\Services\\SimulationCapteurLumiereService.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Application\\Services\\SimulationCapteurLumiereService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:12:07.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CapteurHumiditeAir.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeAir.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeAir.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeAir.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurHumiditeAir.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:36:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CapteurLumiere.cs",
+              "DocumentMoniker": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurLumiere.cs",
+              "RelativeDocumentMoniker": "AgricultureDataSimulator\\Domain\\Entities\\CapteurLumiere.cs",
+              "ToolTip": "C:\\Users\\Mhame\\OneDrive\\Desktop\\SimulateurPfe\\AgricultureDataSimulator\\AgricultureDataSimulator\\Domain\\Entities\\CapteurLumiere.cs",
+              "RelativeToolTip": "AgricultureDataSimulator\\Domain\\Entities\\CapteurLumiere.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:04:57.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
